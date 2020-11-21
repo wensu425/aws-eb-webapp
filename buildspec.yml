@@ -3,7 +3,7 @@ version: 0.2
 phases:
   pre_build:
     commands:
-      - pip install -r aws-eb-webapp/requirements.txt
+      - pip install -r requirements.txt
   build:
     commands:
       - python -m unittest discover -s aws-eb-webapp

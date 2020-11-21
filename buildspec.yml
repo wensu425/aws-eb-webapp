@@ -6,8 +6,8 @@ phases:
       - pip install -r requirements.txt
   build:
     commands:
-      - python -m unittest discover -s aws-eb-webapp
+      - python -m unittest discover -s ./
 artifacts:
   files:
     - '**/*'
-  base-directory: aws-eb-webapp
+  base-directory: ./

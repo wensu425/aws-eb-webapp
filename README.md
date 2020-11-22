@@ -2,4 +2,4 @@
 
 This is to test whether website gets updates 
 
-![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoieWJldWpxN0xKbUlwNWJMdlh3UC80bE1GTTVtaTYzL1pndlNXVFBlSllZaU5Ed3l3aEM4L01SVzV4UnVXNlhxaURSSkFRNVVkWDRnU1lSNk5KQytMcnpFPSIsIml2UGFyYW1ldGVyU3BlYyI6IlpCSVlkWTh1enRsRFpEd2IiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoieWJldWpxN0xKbUlwNWJMdlh3UC80bE1GTTVtaTYzL1pndlNXVFBlSllZaU5Ed3l3aEM4L01SVzV4UnVXNlhxaURSSkFRNVVkWDRnU1lSNk5KQytMcnpFPSIsIml2UGFyYW1ldGVyU3BlYyI6IlpCSVlkWTh1enRsRFpEd2IiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)

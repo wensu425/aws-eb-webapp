@@ -19,13 +19,13 @@ I'm trying to exercise good practive during development cycle and learn about cl
 ## Screenshots
 
 Website screenshot:
-![web page](./resources/1.png)
+![web page](./resources/2.png)
 
 CodePipeline screenshot:
-![CD](./resources/2.png)
+![CD](./resources/1.png)
 
 
-## Tech/framework
+## Framework
 
 Project Diagram: 
 ![diagram](./resources/3.png "Diagram")

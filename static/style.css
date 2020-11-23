@@ -1,11 +1,22 @@
+body{ 
+  background: url('https://image.cnbcfm.com/api/v1/image/106670682-15978791952020-08-19t221553z_1510169879_rc2ahi9isig4_rtrmadp_0_usa-trump.jpeg?v=1597879221&w=740&h=416') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 .table{
     border-spacing: 0;
     margin: 1rem;
     background-color: #f5f5f5;
+    opacity: 0.8
 }
 
 .table__row:nth-child(even){
     background-color: #e5e5e5;
+    opacity: 0.8
 }
 
 .table__header{
@@ -15,3 +26,4 @@
 .table__cell{
     padding: 8px;
 }
+

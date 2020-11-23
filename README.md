@@ -20,9 +20,11 @@ I'm trying to exercise good practive during development cycle and learn about cl
 ## Yotube Demo
 
 - Design Diagram Walkthrough:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JpU8HdnKdXY/0.jpg)](https://www.youtube.com/watch?v=JpU8HdnKdXY)
 
 - Continuous Delivery Demo:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TBxInq4186A/0.jpg)](https://www.youtube.com/watch?v=TBxInq4186A)
 
 ## Screenshots
